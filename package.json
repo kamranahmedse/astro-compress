@@ -1,5 +1,5 @@
 {
-	"name": "astro-compress",
+	"name": "@kamranahmedse/astro-compress",
 	"version": "1.1.50",
 	"private": false,
 	"description": "🗜️ AstroJS compression utilities. Compress HTML, CSS, JavaScript and more!",
@@ -15,13 +15,13 @@
 		"performance",
 		"svg"
 	],
-	"homepage": "https://github.com/astro-community/astro-compress#readme",
+	"homepage": "https://github.com/kamranahmedse/astro-compress#readme",
 	"bugs": {
-		"url": "https://github.com/astro-community/astro-compress/issues"
+		"url": "https://github.com/kamranahmedse/astro-compress/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/astro-community/astro-compress.git"
+		"url": "git+https://github.com/kamranahmedse/astro-compress.git"
 	},
 	"license": "MIT",
 	"type": "module",
